@@ -13,7 +13,7 @@
 
 ### Other ways to chat with me:
 
-[<img align="left" alt="Gustavo | LinkedIn" width="22px" style="color:white"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gustavo | LinkedIn" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gustavo | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Gustavo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
