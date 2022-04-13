@@ -10,7 +10,7 @@
 -  17 years old!
 -  I love to study and work with NodeJs, and JS.
 -  Studying every day to improve my skills.
--  Faculty of information systems
+
 
 ### Other ways to chat with me:
 
