@@ -8,7 +8,7 @@
 ![Typescript.js](https://img.shields.io/badge/Typescript.js-032E91?style=for-the-badge&logo=typescript.js&logoColor=61DAFB)
 
 ## About me:
--  17 years old!
+-  18 years old!
 -  I love to study and work with NodeJs, and JS.
 -  Studying every day to improve my skills.
 
