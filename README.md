@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Typescript.js](https://img.shields.io/badge/Typescript.js-032E91?style=for-the-badge&logo=typescript.js&logoColor=61DAFB)
+![Typescript.js](https://img.shields.io/badge/java-032E91?style=for-the-badge&logo=jaVA&logoColor=grey)
 
 ## About me:
 -  18 years old!
